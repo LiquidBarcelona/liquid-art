@@ -7,7 +7,7 @@ $.ajax({
             $('#works-of-art').append(
                 `
                 <div class="row">
-                    <div class="card d-flex h-100" style="width: 48rem;">
+                    <div class="card d-flex h-100" style="width: 38rem;">
                       
                       <div class="card-body d-flex flex-column align-items-start">
                         <h5 class="card-title"><a href="${item.authorUrl}"> ${item.author}</a> - <a href="${item.workOfArtWiki}">${item.title}</a></h5>
