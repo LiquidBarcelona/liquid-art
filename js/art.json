@@ -1,0 +1,29 @@
+[
+  {
+    "author": "Édouard Manet",
+    "title": "Déjeuner sur l'herbe",
+    "authorUrl": "https://en.wikipedia.org/wiki/%C3%89douard_Manet",
+    "workOfArtImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg/1280px-Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg",
+    "workOfArtWiki": "https://en.wikipedia.org/wiki/Le_D%C3%A9jeuner_sur_l%27herbe",
+    "sender": "@ceci",
+    "description": "El dinar campestre és l'obra més polèmica d'Édouard Manet. El 1863 va ser presentada al Saló dels Rebutjats i va provocar un escàndol per l'ús de la juxtaposició dels colors, sense tons intermedis i la intensitat de la llum de la dona que es troba al mig."
+  },
+  {
+    "author": "Jacques Louis David",
+    "title": "La mort de socrates",
+    "authorUrl": "https://en.wikipedia.org/wiki/Jacques-Louis_David",
+    "workOfArtImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/David_-_The_Death_of_Socrates.jpg/1920px-David_-_The_Death_of_Socrates.jpg",
+    "workOfArtWiki": "https://en.wikipedia.org/wiki/The_Death_of_Socrates",
+    "sender": "@ceci",
+    "description": null
+  },
+  {
+    "author": "Delacroix",
+    "title": "La muerte de Sardanápalo",
+    "authorUrl": "https://es.wikipedia.org/wiki/La_muerte_de_Sardan%C3%A1palo",
+    "workOfArtImg": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvNWY0YjljYWM4MmIzZC5qcGciLCJyZXNpemUsMTUwMHxmb3JtYXQsd2VicCJdfQ.Y3bOlnYLz4bdU7urwVBcMR898pkrSW4Afm5NRD28_Jg.webp",
+    "workOfArtWiki": "https://es.wikipedia.org/wiki/La_muerte_de_Sardan%C3%A1pal",
+    "sender": "@ceci",
+    "description": "La muerte de Sardanápalo es un cuadro de gran tamaño, obra de Eugène Delacroix. Se conserva en el Museo del Louvre de París, donde se exhibe con el título de Mort de Sardanapale. Sobre el mismo tema, el museo alberga igualmente un pequeño cuadro (100 cm x 81 cm)."
+  }
+]
