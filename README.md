@@ -1,4 +1,10 @@
 # liquid-art
-Art
 
-Liquid art
+##TO DO / Ideas
+
+- Improve responsive
+- Order By: Date, Author, Sender
+- Add Category (Impressionist, Romantic, Barroque, etc...)
+- If image clicked, zoom to view details
+- Infinite scroll
+- Grid View
