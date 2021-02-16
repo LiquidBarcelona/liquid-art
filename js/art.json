@@ -15,7 +15,7 @@
     "workOfArtImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/David_-_The_Death_of_Socrates.jpg/1920px-David_-_The_Death_of_Socrates.jpg",
     "workOfArtWiki": "https://en.wikipedia.org/wiki/The_Death_of_Socrates",
     "sender": "@ceci",
-    "description": null
+    "description": "The Death of Socrates (French: La Mort de Socrate) is an oil on canvas painted by French painter Jacques-Louis David in 1787. The painting focuses on a classical subject like many of his works from that decade, in this case the story of the execution of Socrates as told by Plato in his Phaedo."
   },
   {
     "author": "Delacroix",
@@ -25,5 +25,140 @@
     "workOfArtWiki": "https://es.wikipedia.org/wiki/La_muerte_de_Sardan%C3%A1pal",
     "sender": "@ceci",
     "description": "La muerte de Sardanápalo es un cuadro de gran tamaño, obra de Eugène Delacroix. Se conserva en el Museo del Louvre de París, donde se exhibe con el título de Mort de Sardanapale. Sobre el mismo tema, el museo alberga igualmente un pequeño cuadro (100 cm x 81 cm)."
+  },
+  {
+    "author": "Kupka",
+    "title": "L'eau",
+    "authorUrl": "https://en.wikipedia.org/wiki/Franti%C5%A1ek_Kupka",
+    "workOfArtImg": "https://galleryintell.com/wp-content/uploads/2013/06/Frantisek-Kupka_leau_1906_artex.jpg",
+    "workOfArtWiki": "https://galleryintell.com/artex/leau-by-frantisek-kupka/",
+    "sender": "@ceci",
+    "description": "You can see the impressionist, almost pointillist influences in this 1906 – 1907 oil on canvas. Like in impressionism and pointillism, Frantisek Kupka’s brush strokes are evident and serve as the principal framework for constructing the composition. Throughout the painting there is minimal blending and in parts the painting almost looks unfinished. At the same time all key compositional elements appear soft and fluid, despite their material differences."
+  },
+  {
+    "author": "El Bosco",
+    "title": "El jardí de les delícies",
+    "authorUrl": "https://ca.wikipedia.org/wiki/Hieronymus_Bosch",
+    "workOfArtImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/El_jard%C3%ADn_de_las_Delicias%2C_de_El_Bosco.jpg/1920px-El_jard%C3%ADn_de_las_Delicias%2C_de_El_Bosco.jpg",
+    "workOfArtWiki": "https://ca.wikipedia.org/wiki/El_jard%C3%AD_de_les_del%C3%ADcies",
+    "sender": "@ceci",
+    "description": "El jardí de les delícies és l'obra cabdal del pintor neerlandès Hieronymus Bosch, sovint anomenat el Bosch. Es tracta d'un tríptic pintat a l'oli de 206 × 386 cm, compost per una taula central i dues de laterals (pintades en els seus dos costats) que es poden tancar sobre aquella."
+  },
+  {
+    "author": "Edward Hopper",
+    "title": "Automat",
+    "authorUrl": "https://en.wikipedia.org/wiki/Edward_Hopper",
+    "workOfArtImg": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvZWR3YXJkX2hvcHBlcl9hdXRvbWF0YS5qcGciLCJyZXNpemUsMTUwMHxmb3JtYXQsd2VicCJdfQ.RSyw4khzFFVD4qE1OwTon6UCeSOWFYC5Wzh0GN6jrzE.webp",
+    "workOfArtWiki": "https://en.wikipedia.org/wiki/Automat_(painting)",
+    "sender": "@ceci",
+    "description": "Automat is a 1927 painting by the American realist painter Edward Hopper. The painting was first displayed on Valentine's Day 1927 at the opening of Hopper's second solo show, at the Rehn Galleries in New York City. By April it had been sold for $1,200.[1] The painting is today owned by the Des Moines Art Center in Iowa."
+  },
+  {
+    "author": "Henri Rousseau",
+    "title": "Tigre en una tormenta tropical",
+    "authorUrl": "https://es.wikipedia.org/wiki/Henri_Rousseau",
+    "workOfArtImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Surprised-Rousseau.jpg/1920px-Surprised-Rousseau.jpg",
+    "workOfArtWiki": "https://es.wikipedia.org/wiki/Tigre_en_una_tormenta_tropical",
+    "sender": "@ceci",
+    "description": "Expuesto en el Salón de París, su aceptación limitada por el público decepcionó al autor. En la obra se percibe cierto aire esotérico propio del simbolismo.1\u200B"
+  },
+  {
+    "author": "Giuseppe Arcimboldo",
+    "title": "Cesta de frutas reversible",
+    "authorUrl": "https://en.wikipedia.org/wiki/Giuseppe_Arcimboldo",
+    "workOfArtImg": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvZ2l1c2VwcGUtYXJjaW1ib2xkby1yZXZlcnNpYmxlLWhlYWQtd2l0aC1iYXNrZXQtb2YtZnJ1aXQtYy0xNTkwLW9pbC1vbi1wYW5lbC5qcGciLCJyZXNpemUsMTU/wMHxmb3JtYXQsd2VicCJdfQ.eyl-1Ic59fDstKj4R5OI3V_w1exeSgF_r1O9KddPGkw.webp",
+    "workOfArtWiki": "https://en.wikipedia.org/wiki/Giuseppe_Arcimboldo",
+    "sender": "@ceci",
+    "description": "Lo que observamos aquí es una suculenta cesta de frutas, con manzanas, peras, uvas, castañas y demás manjares otoñales que el artista pintó para formar a la vez un simpático retrato si le damos la vuelta. Mucho ingenio y una técnica perfecta dan como resultado una imagen muy atractiva."
+  },
+  {
+    "author": "Nicolas Poussin",
+    "title": "Le Massacre des Innocents",
+    "authorUrl": "https://fr.wikipedia.org/wiki/Nicolas_Poussin",
+    "workOfArtImg": "https://www.descubrirelarte.es/wp-content/uploads/bfi_thumb/VISUEL-1-702x600-nfk9r4ij08vtk1883mx67l9medz3r2dzubq9ie7qxg.jpg",
+    "workOfArtWiki": "https://fr.wikipedia.org/wiki/Le_Massacre_des_Innocents_(Poussin)",
+    "sender": "@ceci",
+    "description": "Probablement commandé par le collectionneur romain Vincenzo Giustiniani, il évoque un épisode du Nouveau Testament et était probablement destiné à rappeler le destin tragique d'enfants de la famille Giustiniani pris en otage par l'Empire ottoman en 1564"
+  },
+  {
+    "author": "Théodore Géricault",
+    "title": "Le radeau de la Méduse",
+    "authorUrl": "https://ca.wikipedia.org/wiki/Th%C3%A9odore_G%C3%A9ricault",
+    "workOfArtImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/2560px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg",
+    "workOfArtWiki": "https://ca.wikipedia.org/wiki/El_rai_de_la_Medusa",
+    "sender": "@ceci",
+    "description": "El tema del quadre fa referència al naufragi d'un vaixell francés, La Medusa, a les costes africanes, en el qual la immensa majoria dels viatgers va morir. Aquesta pintura es pot veure en l'actualitat al Museu del Louvre de París."
+  },
+  {
+    "author": "Joaquín Sorolla",
+    "title": "Ayamonte",
+    "authorUrl": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Sorolla",
+    "workOfArtImg": "https://upload.wikimedia.org/wikipedia/commons/7/79/Ayamonte_de_Sorolla_cropped.jpg",
+    "workOfArtWiki": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Sorolla",
+    "sender": "@ceci",
+    "description": "AKA La pesca del atún"
+  },
+  {
+    "author": "Paul Signac",
+    "title": "Port de Marseille",
+    "authorUrl": "https://en.wikipedia.org/wiki/Paul_Signac",
+    "workOfArtImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Paul_Signac_Port_de_Marseille.jpg/785px-Paul_Signac_Port_de_Marseille.jpg",
+    "workOfArtWiki": "https://en.wikipedia.org/wiki/The_Port_of_Marseille",
+    "sender": "@edu",
+    "description": "El Port de Marsella és una pintura puntillista a l'oli sobre tela de 1907 de Paul Signac, ara al museu Hermitage, Sant Petersburg, Rússia. Els vaixells i el port de la ciutat eren un tema predilecte del pintor, que també va produir El port de Marsella"
+  },
+  {
+    "author": "Salvador Dalí",
+    "title": "La cistella de pa",
+    "authorUrl": "https://ca.wikipedia.org/wiki/Salvador_Dal%C3%AD_i_Dom%C3%A8nech",
+    "workOfArtImg": "https://www.salvador-dali.org/media/upload/cataleg_pintura/MITJA/0607.jpg",
+    "workOfArtWiki": "https://ca.wikipedia.org/wiki/La_cistella_de_pa",
+    "sender": "@edu",
+    "description": "La cistella de pa, altrament coneguda com La panera del pa, és una pintura de l'artista empordanès Salvador Dalí realitzada el 1945. L'obra està exposada al Teatre-Museu Dalí de Figueres"
+  },
+  {
+    "author": "Fernando Botero",
+    "title": "La mona lisa",
+    "authorUrl": "https://ca.wikipedia.org/wiki/Fernando_Botero",
+    "workOfArtImg": "https://1.bp.blogspot.com/-w1HyKQq-HJ0/XwMLz6IvUxI/AAAAAAAAWFQ/lGEMwCtCrKwPNsFz7PYlFi3uG8RUbb7_gCLcBGAsYHQ/s640/7785772e01bff38698cb71a3fae34697.jpg",
+    "workOfArtWiki": "https://www.lacamaradelarte.com/2020/07/mona-lisa.html",
+    "sender": "@edu",
+    "description": "Botero es reconocido por ese peculiar estilo que le define, que resumidamente es pintar “gorditos”. En este sentido, las obras del artista son originales por el grosor y las grandes proporciones de los cuerpos que realiza. Este estilo ha llegado a denominarse como Boterismo o Gordismo para describir un arte figurativo donde se marca la máxima expresión en el volumen de la forma."
+  },
+  {
+    "author": "Antoni Tàpies",
+    "title": "L'esperit català",
+    "authorUrl": "https://ca.wikipedia.org/wiki/Antoni_T%C3%A0pies_i_Puig",
+    "workOfArtImg": "https://museo.unav.edu/image/image_gallery?uuid=7003a4b9-533d-4c85-b841-96603fc88d70&groupId=5318873&t=1415990027400",
+    "workOfArtWiki": "https://museo.unav.edu/coleccion/la-coleccion/esperit-catala",
+    "sender": "@xavi",
+    "description": "El Espíritu Catalán representa un muro simbólico y universal de división pero también de paradójica unidad, por ese común sentimiento de un pueblo histórico, reflejo de una esperanza al otro lado, en ese más allá oculto e invisible por el muro que nos separa de lo que ansiamos y que una vez derribado nos salvará."
+  },
+  {
+    "author": "Miquel Barceló",
+    "title": "El diluvio",
+    "authorUrl": "",
+    "workOfArtImg": "https://www.alejandradeargos.com/images/Miquel_Barcelo/1_Barcelo-Diluvio.jpg",
+    "workOfArtWiki": "",
+    "sender": "",
+    "description": ""
+  },
+  {
+    "author": "Camille Pissarro",
+    "title": "La cueillette des pois",
+    "authorUrl": "https://ca.wikipedia.org/wiki/Camille_Pissarro",
+    "workOfArtImg": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Pissarro_-_La_cueillette_des_pois.jpg",
+    "workOfArtWiki": "https://fr.wikipedia.org/wiki/Fichier:Pissarro_-_La_cueillette_des_pois.jpg",
+    "sender": "@xavi",
+    "description": "La cueillette des pois. Tableau de Camille Pissarro de la collection Simon Bauer spoliée durant la Seconde guerre mondiale."
+  },
+  {
+    "author": "Edvard Munch",
+    "title": "Autorrerato, noctámbulo",
+    "authorUrl": "https://en.wikipedia.org/wiki/Edvard_Munch",
+    "workOfArtImg": "https://drugstoremag.es/wp-content/uploads/2015/04/Edvar_Munch_Autorretrato_Noct%C3%A1mbulo_1924.jpg",
+    "workOfArtWiki": "https://en.wikipedia.org/wiki/Edvard_Munch",
+    "sender": "@xavi",
+    "description": "Las últimas dos décadas de vida, Edvard Munch las pasó recluido en su casa de campo de Ekely, a las afueras de Oslo. Aquejado de insomnio y de tristeza, pero fuerte en el reconocimiento de sus debilidades. Estaba solo. Caminaba por su casa vacía en la noche, pintando un paisaje interno de cenizas, sobre el que comenzaba a atisbarse otro paisaje, de fuera, social, mucho más doloroso. En Alemania, donde había comenzado su éxito profesional, los nazis habían prohibido sus cuadros, echándolos junto a los Picasso, los Gauguin, los Matisse, al oscuro salón del “arte degenerado”."
   }
 ]
