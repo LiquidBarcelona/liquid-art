@@ -27,15 +27,6 @@
     "description": "La muerte de Sardanápalo es un cuadro de gran tamaño, obra de Eugène Delacroix. Se conserva en el Museo del Louvre de París, donde se exhibe con el título de Mort de Sardanapale. Sobre el mismo tema, el museo alberga igualmente un pequeño cuadro (100 cm x 81 cm)."
   },
   {
-    "author": "Kupka",
-    "title": "L'eau",
-    "authorUrl": "https://en.wikipedia.org/wiki/Franti%C5%A1ek_Kupka",
-    "workOfArtImg": "https://galleryintell.com/wp-content/uploads/2013/06/Frantisek-Kupka_leau_1906_artex.jpg",
-    "workOfArtWiki": "https://galleryintell.com/artex/leau-by-frantisek-kupka/",
-    "sender": "@ceci",
-    "description": "You can see the impressionist, almost pointillist influences in this 1906 – 1907 oil on canvas. Like in impressionism and pointillism, Frantisek Kupka’s brush strokes are evident and serve as the principal framework for constructing the composition. Throughout the painting there is minimal blending and in parts the painting almost looks unfinished. At the same time all key compositional elements appear soft and fluid, despite their material differences."
-  },
-  {
     "author": "El Bosco",
     "title": "El jardí de les delícies",
     "authorUrl": "https://ca.wikipedia.org/wiki/Hieronymus_Bosch",
@@ -151,6 +142,96 @@
     "workOfArtWiki": "https://fr.wikipedia.org/wiki/Fichier:Pissarro_-_La_cueillette_des_pois.jpg",
     "sender": "@xavi",
     "description": "La cueillette des pois. Tableau de Camille Pissarro de la collection Simon Bauer spoliée durant la Seconde guerre mondiale."
+  },
+  {
+    "author": "Andy Warhol",
+    "title": "Flowers",
+    "authorUrl": "https://es.wikipedia.org/wiki/Andy_Warhol",
+    "workOfArtImg": "https://d32dm0rphc51dk.cloudfront.net/gF3YHSIZk-nXFdBP_j44TQ/large.jpg",
+    "workOfArtWiki": "https://www.artsy.net/artwork/andy-warhol-flowers-2425",
+    "sender": "@xavi",
+    "description": "Warhol’s interest in flowers spoke to his larger interest in cohering floral elements and fashion– a fascination that still persists in art and sartorial spheres of the modern era. Michael Lobel, who wrote an essay entitled In Transition: Warhol’s Flowers, once said that Flowers resonated with the 1960’s fashion set because they regarded the flowers’ simple shapes, bold patterns, and bright colors as promising fixtures of then-contemporary design."
+  },
+  {
+    "author": "Francisco de Goya",
+    "title": "Saturno ",
+    "authorUrl": "https://historia-arte.com/artistas/francisco-de-goya",
+    "workOfArtImg": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvZnJhbmNpc2NvLWRlLWdveWEtc2F0dXJuby1kZXZvcmFuZG8tYS1zdS1oaWpvLTE4MTktMTgyMy5qcGciLCJyZXNpemUsMTUwMHxmb3JtYXQsd2VicCJdfQ.BLhj/eMDBzYJZc02JFs5cgEZ9zZUKI2glj6lABNvtjJA.webp",
+    "workOfArtWiki": "https://historia-arte.com/obras/saturno-devorando-hijo",
+    "sender": "@mbernet",
+    "description": "Saturno (Crono), el padre de Júpiter (Zeus), se zampa a uno de sus hijos pues tenía el temor de que estos lo destronasen en el futuro (como había echo él con su padre Urano, al que además castró con su hoz)."
+  },
+  {
+    "author": "Pierre-Auguste Renoir",
+    "title": "Bal du moulin de la Galette",
+    "authorUrl": "https://historia-arte.com/artistas/pierre-auguste-renoir",
+    "workOfArtImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pierre-Auguste_Renoir%2C_Le_Moulin_de_la_Galette.jpg/300px-Pierre-Auguste_Renoir%2C_Le_Moulin_de_la_Galette.jpg",
+    "workOfArtWiki": "https://es.wikipedia.org/wiki/Baile_en_el_Moulin_de_la_Galette",
+    "sender": "@mbernet",
+    "description": "Renoir en este cuadro representa un baile en el Moulin de la Galette, merendero popular del parisino barrio de Montmartre. Se ve la luz a través de los árboles, y se refleja en la ropa. En el primer plano, a la derecha abajo se ven unas diagonales creadas por unos bancos y una mesa donde están sentados amigos del pintor. Tiene influencias de la fotografía, ya que corta los cuerpos."
+  },
+  {
+    "author": "Tamara de Lempicka",
+    "title": "Autorretrato en un Bugatti verde",
+    "authorUrl": "https://historia-arte.com/artistas/tamara-de-lempicka",
+    "workOfArtImg": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvbGVtcGlja2EtYnVnYXR0aS5qcGciLCJyZXNpemUsMTUwMHxmb3JtYXQsd2VicCJdfQ.ZTJzusvBNBvXXX71IchQ-8rfUdfzCet6_1u_m6PW3wE.webp",
+    "workOfArtWiki": "https://historia-arte.com/obras/autorretrato-en-un-bugatti-verde",
+    "sender": "@mbernet",
+    "description": "Lempicka conduce su lujoso coche por la ciudad. Es independiente y atractiva. Viste elegantemente, como una estrella de cine, y por su bufanda debemos intuir que va a gran velocidad.\n\nUn resumen perfecto de cómo fue su vida en esa mágica década."
+  },
+  {
+    "author": "Piet Mondrian",
+    "title": "Broadway Boogie Woogie",
+    "authorUrl": "https://historia-arte.com/artistas/piet-mondrian",
+    "workOfArtImg": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvcGlldC1tb25kcmlhbi0xOTQyLWJyb2Fkd2F5LWJvb2dpZS13b29naWUuanBnIiwicmVzaXplLDE1MDB8Zm9ybWF0LHdlYnAiXX0.ic3gAq9YM6q43j-hp80k9Cb/JXUKQ-KyApIoUMDmZNJs.webp",
+    "workOfArtWiki": "https://historia-arte.com/obras/broadway-boogie-woogie",
+    "sender": "@mbernet",
+    "description": "Un movimiento que sugiere la ciudad con sus luces eléctricas parpadeantes, o un rascacielos con sus ascensores, o quizás el movimiento del tráfico, y si nos ponemos anacrónicos, los píxeles de un videojuego o las piezas de un juguete montable de colores.\n\nUna pieza pictórica ideal para escuchar lo que dice su título: un Boogie Woogie, esa especie de pre-rock and roll con octavas galopantes y acordes super-rápidos. Un matrimonio perfecto puede ser observar el cuadro con la música de, por ejemplo, las Andrew Sisters. Parece que al ritmo de la música los colores se ponen a vibrar y a bailar."
+  },
+  {
+    "author": "Ramon Casas",
+    "title": "Ramon Casas i Pere Romeu en un tàndem",
+    "authorUrl": "https://ca.wikipedia.org/wiki/Ramon_Casas_i_Carb%C3%B3",
+    "workOfArtImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/15-10-27-Els_Quatre_Gats-RalfR-WMA_2740a.jpg/300px-15-10-27-Els_Quatre_Gats-RalfR-WMA_2740a.jpg",
+    "workOfArtWiki": "https://ca.wikipedia.org/wiki/Ramon_Casas_i_Pere_Romeu_en_un_t%C3%A0ndem",
+    "sender": "@mbernet",
+    "description": "Aquesta pintura va decorar les parets d'Els Quatre Gats, centre de reunió dels modernistes, des de la seva obertura el 1897 fins al canvi de segle, i que era regentat per Pere Romeu i Borràs. L'obra estava a la paret principal, sobre la llarga taula al voltant de la qual s'asseien Casas i Santiago Rusiñol i, al costat d'ells, una sèrie de joves artistes que iniciaven la seva carrera i que en pocs anys passarien a ocupar els primers llocs de l'art del nostre país"
+  },
+  {
+    "author": "Caravaggio",
+    "title": "Crucifixión de San Pedro",
+    "authorUrl": "https://es.wikipedia.org/wiki/Caravaggio",
+    "workOfArtImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Martirio_di_San_Pietro_September_2015-1a.jpg/800px-Martirio_di_San_Pietro_September_2015-1a.jpg",
+    "workOfArtWiki": "https://es.wikipedia.org/wiki/Crucifixi%C3%B3n_de_San_Pedro_(Caravaggio)",
+    "sender": "@mbernet",
+    "description": "La pintura representa el martirio de San Pedro por medio de la crucifixión, si bien Pedro pidió que su cruz fuera puesta al revés para no imitar a su maestro, Cristo. El gran lienzo muestra a tres esbirros romanos, figuras tenebrosas, con el rostro oculto o apartado,2\u200B luchando por erigir la cruz del anciano pero musculoso san Pedro. Pedro es más pesado de lo que su cuerpo con muchos años sugeriría, y la elevación de su cruz requiere los esfuerzos de tres hombres, como si el crimen que perpetran ya les pesara. Su gesto, según Roberto Longhi es más propio de trabajadores ocupados que están ocupados haciendo su trabajo, que de verdugos. Tiran, levantan y hacen palanca contra la cruz, en posiciones feas y banales, como queda en evidencia en el trasero amarillo y los pies sucios del esbirro que queda en la parte izquierda del primer plano"
+  },
+  {
+    "author": "Kupka",
+    "title": "L'eau",
+    "authorUrl": "https://en.wikipedia.org/wiki/Franti%C5%A1ek_Kupka",
+    "workOfArtImg": "https://galleryintell.com/wp-content/uploads/2013/06/Frantisek-Kupka_leau_1906_artex.jpg",
+    "workOfArtWiki": "https://galleryintell.com/artex/leau-by-frantisek-kupka/",
+    "sender": "@ceci",
+    "description": "You can see the impressionist, almost pointillist influences in this 1906 – 1907 oil on canvas. Like in impressionism and pointillism, Frantisek Kupka’s brush strokes are evident and serve as the principal framework for constructing the composition. Throughout the painting there is minimal blending and in parts the painting almost looks unfinished. At the same time all key compositional elements appear soft and fluid, despite their material differences."
+  },
+  {
+    "author": "Francisco de Zurbarán",
+    "title": "Agnus Dei",
+    "authorUrl": "https://historia-arte.com/artistas/francisco-de-zurbaran",
+    "workOfArtImg": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvNWZmOTgwYzkwMzJmMi5qcGciLCJyZXNpemUsMTUwMHxmb3JtYXQsd2VicCJdfQ.9LwTaAur8tt6cHwknlzXIOY7y4ioi7GQ_g1w1IlTf10.webp",
+    "workOfArtWiki": "https://historia-arte.com/obras/agnus-dei",
+    "sender": "@mbernet",
+    "description": "En un arrebato de ultramodernidad, el pintor contrarreformista lanza al animal a una tenebrosa soledad dentro de un habitáculo de austeridad tricolor, eliminando todo paisaje y antropomorfización propia del pasado. El borrego se muestra sumiso y paciente, esperando su final con las patas amarradas a modo de mártir paleocristiano."
+  },
+  {
+    "author": "Paul Klee",
+    "title": "Castillo y sol",
+    "authorUrl": "https://historia-arte.com/artistas/paul-klee",
+    "workOfArtImg": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwva2xlZV9oaXN0b3JpYV9hcnRlLmpwZyIsInJlc2l6ZSwxNTAwfGZvcm1hdCx3ZWJwIl19.Z6nUfOOcov4lkV3_j6rwESN5kOKTbb9mCO7rMsc8SVc.webp",
+    "workOfArtWiki": "https://historia-arte.com/obras/castillo-y-sol-de-klee",
+    "sender": "@mbernet",
+    "description": "«Castillo y Sol» es expresionismo, pero aquí se roza la abstracción, por muy figurativo que sea pintar un paisaje. Y además con colores muy, muy, muy cálidos. El sol parece quemar en ese lugar imaginario. Se dice que en su mayor parte Klee pintó este «Castillo y sol» con la mano izquierda, pese a ser diestro."
   },
   {
     "author": "Edvard Munch",
