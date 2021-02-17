@@ -8,3 +8,18 @@
 - If image clicked, zoom to view details
 - Infinite scroll
 - Grid View
+
+## Model
+
+```
+{
+    "author": "",
+    "title": "",
+    "authorUrl": "",
+    "workOfArtImg": "",
+    "workOfArtWiki": "",
+    "sender": "",
+    "year": 0,
+    "description": ""
+  }
+```

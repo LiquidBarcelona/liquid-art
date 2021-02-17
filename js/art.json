@@ -165,7 +165,7 @@
     "authorUrl": "https://es.wikipedia.org/wiki/Andy_Warhol",
     "workOfArtImg": "https://d32dm0rphc51dk.cloudfront.net/gF3YHSIZk-nXFdBP_j44TQ/large.jpg",
     "workOfArtWiki": "https://www.artsy.net/artwork/andy-warhol-flowers-2425",
-    "sender": "@xavi",
+    "sender": "@mbernet",
     "year": 1970,
     "description": "Warhol’s interest in flowers spoke to his larger interest in cohering floral elements and fashion– a fascination that still persists in art and sartorial spheres of the modern era. Michael Lobel, who wrote an essay entitled In Transition: Warhol’s Flowers, once said that Flowers resonated with the 1960’s fashion set because they regarded the flowers’ simple shapes, bold patterns, and bright colors as promising fixtures of then-contemporary design."
   },
@@ -278,5 +278,45 @@
     "sender": "@xavi",
     "year": 1924,
     "description": "Las últimas dos décadas de vida, Edvard Munch las pasó recluido en su casa de campo de Ekely, a las afueras de Oslo. Aquejado de insomnio y de tristeza, pero fuerte en el reconocimiento de sus debilidades. Estaba solo. Caminaba por su casa vacía en la noche, pintando un paisaje interno de cenizas, sobre el que comenzaba a atisbarse otro paisaje, de fuera, social, mucho más doloroso. En Alemania, donde había comenzado su éxito profesional, los nazis habían prohibido sus cuadros, echándolos junto a los Picasso, los Gauguin, los Matisse, al oscuro salón del “arte degenerado”."
+  },
+  {
+    "author": "Edgar Degas",
+    "title": "Intérieur\n(la violación)",
+    "authorUrl": "https://historia-arte.com/artistas/edgar-degas",
+    "workOfArtImg": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvZGVnYXMtaW50ZXJpZXVyLXBoaWxhZGVscGhpYS1tdXNldW0tb2YtYXJ0LTE5ODYtMjYtMTAuanBnIiwicmVzaXplLDE1MDB8Zm9ybWF0LHdlYnAiXX0.xbBfE2M/gtiS-gPOyvF8jHcyeGMz7RTiLZoOX3XDQB14.webp",
+    "workOfArtWiki": "https://historia-arte.com/obras/la-violacion",
+    "sender": "@mbernet",
+    "year": 1869,
+    "description": "Degas disfraza una denuncia de género: una pintura costumbrista que refleja los usos de la época, que necesariamente implica una relación vertical de la figura masculina hacia la experiencia de la feminidad. El manejo de la luz es asertivo, y da a conocer una cara de la realidad que nadie quiere mostrar"
+  },
+  {
+    "author": "Frida",
+    "title": "Pitahayas",
+    "authorUrl": "https://en.wikipedia.org/wiki/Frida_Kahlo",
+    "workOfArtImg": "https://lh3.googleusercontent.com/cbRBYUCl8Z31qsXQyuGNWARjEtFdJmbPvW0a0Z5T9bnb1XF02DTCHBFp4M7jH4oX65U=s1200",
+    "workOfArtWiki": "https://artsandculture.google.com/exhibit/pitahayas-m%C3%A1s-que-naturaleza-muerta-es-un-autorretrato-de-frida-kahlo-madison-museum-of-contemporary-art/TwJCvMnyaXG2LQ?hl=es-419",
+    "sender": "@xavi",
+    "year": 1938,
+    "description": "Kahlo opinaba lo siguiente sobre la dulce fruta: \"Es fucsia por fuera, pero, en su interior, oculta la sutileza de una pulpa gris blanquecina salpicada con pequeños puntos negros, que son sus semillas. ¡Es una maravilla! Las frutas son como las flores, ya que nos hablan en un idioma provocativo y enseñan cosas que están ocultas\".\n\nAl igual que sus palabras, la iconografía incorporada y la procedencia del cuadro revelan los eventos íntimos de la vida privada de Kahlo y destacan el comienzo de su carrera como artista de renombre internacional. Este era solo el comienzo de su carrera y del viaje de \"Pitahayas\"."
+  },
+  {
+    "author": "Jean-Auguste-Dominique Ingres",
+    "title": "Grande Odalisque",
+    "authorUrl": "https://en.wikipedia.org/wiki/Jean-Auguste-Dominique_Ingres",
+    "workOfArtImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jean_Auguste_Dominique_Ingres%2C_La_Grande_Odalisque%2C_1814.jpg/1280px-Jean_Auguste_Dominique_Ingres%2C_La_Grande_Odalisque%2C_1814.jpg",
+    "workOfArtWiki": "https://en.wikipedia.org/wiki/Grande_Odalisque",
+    "sender": "@ceci",
+    "year": 1814,
+    "description": "  Stemming from the initial criticism the painting received, the figure in Grande Odalisque is thought to be drawn with \"two or three vertebrae too many.\" Critics at the time believed the elongations to be errors on the part of Ingres, but recent studies show the elongations to have been deliberate distortions. Measurements taken on the proportions of real women showed that Ingres's figure was drawn with a curvature of the spine and rotation of the pelvis impossible to replicate.[6] It also showed the left arm of the odalisque is shorter than the right. The study concluded that the figure was longer by five instead of two or three vertebrae and that the excess affected the lengths of the pelvis and lower back instead of merely the lumbar region"
+  },
+  {
+    "author": "Alfons Mucha",
+    "title": "Daydream",
+    "authorUrl": "https://es.wikipedia.org/wiki/Alfons_Mucha",
+    "workOfArtImg": "https://i.pinimg.com/564x/5e/ad/29/5ead29908d235651de7a9845ba144b16.jpg",
+    "workOfArtWiki": "https://mymodernmet.com/es/alphonse-mucha-art-nouveau/",
+    "sender": "@edu",
+    "year": 1897,
+    "description": "A finales del siglo XIX, una corriente de “arte nuevo” causó revuelo por toda Europa. Caracterizada por el interés en una reinterpretación estilizada de la belleza de la naturaleza, artistas de todo el continente adoptaron y adaptaron este estilo vanguardista. Como resultado, nacieron algunos submovimientos en cada región, como la Secesión de Viena en Austria, el Modernismo en España, y el art nouveau en Francia.\n\nEl estilo art nouveau francés fue acogido por artistas de varias disciplinas. Además de las bellas artes, como la pintura y la escultura, también influyó en la arquitectura y las artes decorativas de este periodo. Sin embargo, su legado más perdurable quizás puede encontrarse en el cartel, una herramienta comercial que el artista checo Alphonse Mucha ayudó a convertir en una forma de arte moderno."
   }
 ]
