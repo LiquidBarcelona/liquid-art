@@ -13,7 +13,7 @@ $.ajax({
                       </div>
                       <img class="card-img-top" src="${item.workOfArtImg}" alt="${item.title}">
                       <div class="card-body">
-                       <p class="card-text">${item.description} <span class="badge badge-primary">${item.sender}</span></p>
+                       <p class="card-text description">${item.description} <span class="badge badge-primary">${item.sender}</span></p>
                       </div>
                     </div>
                 </div>`
