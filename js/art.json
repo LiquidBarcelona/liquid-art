@@ -408,5 +408,35 @@
     "sender": "@mbernet",
     "year": 1897,
     "description": "Ciencia y caridad es una pintura al óleo realizada por Pablo Picasso en 1897 en Barcelona y que actualmente forma parte de la colección permanente del Museu Picasso de Barcelona.1\u200B Se trata de una de las obras más representativas de la etapa de formación del artista y la realizó con solo 15 años."
+  },
+  {
+    "author": "Jean-Léon Gérôme",
+    "title": "Phryne before the Areopagus",
+    "authorUrl": "https://en.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me",
+    "workOfArtImg": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Jean-L%C3%A9on_G%C3%A9r%C3%B4me%2C_Phryne_revealed_before_the_Areopagus_%281861%29_-_01.jpg",
+    "workOfArtWiki": "https://en.wikipedia.org/wiki/Phryne_before_the_Areopagus",
+    "sender": "@ceci",
+    "year": 1861,
+    "description": "Phryne before the Areopagus (French: Phryne devant l'Areopage) is an 1861 painting by the French artist Jean-Léon Gérôme. The subject matter is Phryne, a legendary courtesan in ancient Greece who was put on trial for impiety. Phryne was acquitted after her defender Hypereides removed her robe and exposed her naked bosom, \"to excite the pity of her judges by the sight of her beauty.\"\n\nThe painting was exhibited at the 1861 Salon. It is in the collection of the Kunsthalle Hamburg in Germany.\n"
+  },
+  {
+    "author": "Vasily Vereshchagin",
+    "title": "La apoteosis de la guerra",
+    "authorUrl": "https://historia-arte.com/artistas/vasily-vereshchagin",
+    "workOfArtImg": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvYXBvdGVvc2lzLXZlcmVzaGNoYWdpbi5qcGciLCJyZXNpemUsMTUwMHxmb3JtYXQsd2VicCJdfQ.YP2mtZrRDHZ9koRWKPNqycy_HNigtUEK8DTRmDRmDNI.webp",
+    "workOfArtWiki": "https://historia-arte.com/obras/la-apoteosis-de-la-guerra",
+    "sender": "@edu",
+    "year": 1871,
+    "description": "La obra muestra el resultado de una cruenta batalla, que aunque parezca un paisaje surrealista o un bodegón de Cézanne, muestra una escena absolutamente real.\n\nDejar una pirámide con las cabezas de sus víctimas a las afueras de las ciudades conquistadas era una costumbre del conquistador turco-mongol Tamerlán, uno de los últimos caudillos nómadas del Asia Central. Y con la impactante escena Vereshchagin quiso denunciar no esta, sino todas las guerras habidas y por haber."
+  },
+  {
+    "author": "Man Ray",
+    "title": "La Fortune",
+    "authorUrl": "https://historia-arte.com/artistas/man-ray",
+    "workOfArtImg": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvbGEtZm9ydHVuZS1tYW4tcmF5LmpwZyIsInJlc2l6ZSwxNTAwfGZvcm1hdCx3ZWJwIl19.Uu77oTDDPBqsa7pyA4wt1xRSzpD-jXAqzhMZ1-6VNkw.webp",
+    "workOfArtWiki": "https://historia-arte.com/obras/man-ray-la-fortune",
+    "sender": "@xavi",
+    "year": 1938,
+    "description": "El sentido del humor no faltaba en su obra. Suya es la frase «Si pudiéramos desterrar la palabra serio de nuestro vocabulario, muchas cosas se arreglarían».\n\nPor supuesto, a los críticos de la época no les parecía seria su obra, pero Man Ray dejó clara su opinión con una de sus bromas dadá:\n\n«Todos los críticos deben ser asesinados»."
   }
 ]
