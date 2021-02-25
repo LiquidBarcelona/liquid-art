@@ -60,7 +60,7 @@ class Controller {
                 self.authors.push(item.author);
             }
 
-            if(filter.length === 0 || item[filter.property] === filter.value) {
+            if(filter.length === 0 || item[filter.property].toString() === filter.value) {
                 self.renderDiv('#works-of-art', item);
             }
         });
