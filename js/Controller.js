@@ -15,6 +15,7 @@ class Controller {
         window.addEventListener('hashchange', function() {
             self.hash = window.location.hash.substring(1);
             self.filter = self.getFilter(self.hash);
+            console.log(self.filter);
             self.render();
         })
     }
@@ -23,7 +24,7 @@ class Controller {
         if(str.length > 1) {
             return {
                 property: str.split(':')[0],
-                value: str.split(':')[1]
+                value: decodeURIComponent(str.split(':')[1])
             };
         }
         return '';
@@ -36,7 +37,10 @@ class Controller {
                     <div class="card d-flex h-100" style="width: 38rem;">
                       
                       <div class="card-body d-flex flex-column align-items-start">
-                        <h5 class="card-title"><a href="${item.authorUrl}" target="_blank"> ${item.author}</a> - <a href="${item.workOfArtWiki}" target="_blank">${item.title}</a> (${item.year})</h5>
+                        <h5 class="card-title">
+                            <a href="${item.authorUrl}" target="_blank"> ${item.author}</a> - <a href="${item.workOfArtWiki}" target="_blank">${item.title}</a>  (<a href="#year:${item.year}">${item.year}</a>)   &nbsp; &nbsp;<a href="#title:${item.title}" class="bi bi-link float-right"></a>
+                        </h5>
+                        
                       </div>
                       <img class="card-img-top" src="${item.workOfArtImg}" alt="${item.title}">
                       <div class="card-body">
