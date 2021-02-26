@@ -498,5 +498,35 @@
     "sender": "@edu",
     "year": 1928,
     "description": "¿Un amor secreto…? ¿Un amor prohibido…? ¿Dos desconocidos que se gustan sin conocerse…? ¿Lo insensible de algunos amores…? ¿El amor ciego…? El surrealista Magritte no explica nada. Sólo nos deja esa sensación de asfixia, que es quizás un síntoma como otro cualquiera para ilustrar el amor.\n\nNuevamente, el artista juega con la idea de interior-exterior: No sabemos si esa pared azul está pintada o es el cielo."
+  },
+  {
+    "author": "Vincent Van Gogh",
+    "title": "Moulin Dubray",
+    "authorUrl": "https://historia-arte.com/artistas/vincent-van-gogh",
+    "workOfArtImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sc%C3%A8ne_de_Rue_%C3%A0_Montmartre.jpg/1920px-Sc%C3%A8ne_de_Rue_%C3%A0_Montmartre.jpg",
+    "workOfArtWiki": "https://es.wikipedia.org/wiki/Le_Moulin_de_la_Galette_(serie_de_Van_Gogh)",
+    "sender": "@xavi",
+    "year": 1887,
+    "description": "Pertenece a una de una serie de obras que Van Gogh pintó mientras se hospedaba con su hermano Theo en la capital francesa en 1886 y 1887.\n\nMontmartre todavía era semirrural en ese momento, como muestra el molino de viento que ocupa un lugar destacado en el cuadro, detrás de algunos lugareños que deambulan por la zona."
+  },
+  {
+    "author": "Thomas Eakins",
+    "title": "The Clinic of Dr. Agnew",
+    "authorUrl": "https://historia-arte.com/artistas/thomas-eakins",
+    "workOfArtImg": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvdGhlLWFnbmV3LWNsaW5pYy0xODg5LmpwZyIsInJlc2l6ZSwxNTAwfGZvcm1hdCx3ZWJwIl19.uZpnDoRIv2tedu7zKcpz2zO6tInQpqv-8VOCBojfF6E.webp",
+    "workOfArtWiki": "https://historia-arte.com/obras/la-clinica-agnew-de-thomas-eakins",
+    "sender": "@mbernet",
+    "year": 1889,
+    "description": "Representación realista y totalmente teatralizada de una intervención quirúrgica en una clínica, convertida en tema y espectáculo moderno.\n\nMuestra tal cual cómo se hacía una mastectomía en 1889 y la controversia fue notable en la época al pintar una mujer semidesnuda observada por una grada llena de hombres, por muy científicos y doctores que estos fueran."
+  },
+  {
+    "author": "Emil Nolde",
+    "title": "Frühmorgenflug",
+    "authorUrl": "https://es.wikipedia.org/wiki/Emil_Nolde",
+    "workOfArtImg": "https://www.art-scene.tv/typo3temp/pics/7c025364f7.jpg",
+    "workOfArtWiki": "https://www.artsy.net/artwork/emil-nolde-fruhmorgenflug",
+    "sender": "@ceci",
+    "year": 1938,
+    "description": "A wood carver and draftsman, Emil Nolde studied arts and crafts early on and eventually took up painting and printmaking as a full time profession at the age of 31. His intensely colored, gestural oil paintings of urban nightlife, biblical scenes, flower motifs, and landscapes are considered among the best examples of German Expressionism and admired for their intense psychological power. Traces of Primitivism are evident in his incorporation of exotic figures and masks, especially in his later watercolors inspired by a journey to the South Pacific. Likewise, among Die Brücke, a group of German Expressionists with whom he was associated, Nolde was considered the preeminent intaglio printmaker. He achieved rich tonal effects and textural results with a unique treatment of the copper plate."
   }
 ]
