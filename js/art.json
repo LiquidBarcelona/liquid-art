@@ -528,5 +528,45 @@
     "sender": "@ceci",
     "year": 1938,
     "description": "A wood carver and draftsman, Emil Nolde studied arts and crafts early on and eventually took up painting and printmaking as a full time profession at the age of 31. His intensely colored, gestural oil paintings of urban nightlife, biblical scenes, flower motifs, and landscapes are considered among the best examples of German Expressionism and admired for their intense psychological power. Traces of Primitivism are evident in his incorporation of exotic figures and masks, especially in his later watercolors inspired by a journey to the South Pacific. Likewise, among Die Brücke, a group of German Expressionists with whom he was associated, Nolde was considered the preeminent intaglio printmaker. He achieved rich tonal effects and textural results with a unique treatment of the copper plate."
+  },
+  {
+    "author": "Suzanne Valadon",
+    "title": "La Chambre bleue",
+    "authorUrl": "https://historia-arte.com/artistas/suzanne-valadon",
+    "workOfArtImg": "https://www.centrepompidou.fr/media/picture/21/96/21961de51fe2b84652da776ab6f8fca6/thumb_large.jpg",
+    "workOfArtWiki": "https://www.centrepompidou.fr/fr/ressources/oeuvre/cpg8rdy",
+    "sender": "@ceci",
+    "year": 1923,
+    "description": "Les frasques célèbres de Suzanne Valadon (ses amants, ses fracassantes ruptures amoureuses, son fils alcoolique) ont occulté l’originalité de sa carrière. D’origine modeste, elle travaille jeune et exerce de nombreuses activités avant de se familiariser – elle est alors modèle – avec les ateliers d’artistes, à une époque où l’espace des femmes de sa condition sociale se réduit aux intérieurs domestiques. Son apprentissage est fait de croquis de scènes quotidiennes, des travailleurs de la rue, de petites gens, et ses modèles sont plus souvent des membres de son entourage que des professionnels. L’odalisque de La Chambre bleue (cat. rais. noP275) reprend un poncif pictural pour le reformuler. La femme allongée sur le lit n’est pas dénudée, mais habillée, non pas à l’orientale comme les odalisques de Matisse, mais comme une femme moderne. Sa chemisette à bretelles, son pyjama rayé n’évoquent pas seulement l’érotisme ou l’attente sexuelle mais également le repos d’un corps dans le confort de vêtements larges et colorés, qui affirment une volonté de modernité. Le détail de la cigarette, ostensiblement fichée dans la bouche, caractérise alors les femmes de petite vertu, comme les gigolettes de Kupka ou les femmes artistes. Cette modernité s’attache ici à la représentation d’une femme mûre, aux mains épaisses, au corps las et pesant, aux seins lourds. Selon Valadon, « il faut avoir le courage de regarder le modèle en face si l’ont veut atteindre l’âme. Ne m’amenez jamais pour peindre une femme qui cherche l’aimable ou le joli, je la décevrais tout de suite. » La composition, qui reprend le schéma traditionnel du nu voluptueux encadré de rideaux, nous fait entrer dans l’intimité bohème de l’atelier saturé de bleus intenses. Perdue dans ses pensées, la femme oublie l’intrusion du peintre : c’est un instant volé."
+  },
+  {
+    "author": "Yayoi Kusama",
+    "title": "White No.28",
+    "authorUrl": "https://ca.wikipedia.org/wiki/Yayoi_Kusama",
+    "workOfArtImg": "https://news.artnet.com/app/news-upload/2014/11/kusama-white-redes-infinitas.jpg",
+    "workOfArtWiki": "",
+    "sender": "@xavi",
+    "year": 1960,
+    "description": "This “Infinity Net” painting was sold at Christie’s New York in December 2014 as part of the Post-War & Contemporary Art Evening Sale which achieved the highest total in auction history at the time."
+  },
+  {
+    "author": "Rafael Sanzio",
+    "title": "La escuela de Atenas",
+    "authorUrl": "https://historia-arte.com/artistas/rafael",
+    "workOfArtImg": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvZXNjdWVsYV9hdGVuYXNfcmFmYWVsLmpwZyIsInJlc2l6ZSwxNTAwfGZvcm1hdCx3ZWJwIl19.LmEHKDzqJfj8E45I-oGtWICcudR2PO2x-QTuA2Hmr4s.webp",
+    "workOfArtWiki": "https://historia-arte.com/obras/la-escuela-de-atenas-de-rafael",
+    "sender": "@mbernet",
+    "year": 1511,
+    "description": "Uno de los frescos más conocidos de la historia del arte y quizás la obra más ambiciosa de Rafael, que quiso representar nada menos que los orígenes del pensamiento occidental, que como todos sabemos nació en la Antigua Grecia.\n\nEl artista pinta al dream team de filósofos clásicos y lo hace poniéndoles rostros de artistas contemporáneos.\n\nAsí por ejemplo, en el centro tenemos a Platón (pintado como Leonardo) y Aristóteles, las dos principales ramas de la filosofía"
+  },
+  {
+    "author": "Anónimo",
+    "title": "Pantocrator",
+    "authorUrl": "#author:Anónimo",
+    "workOfArtImg": "https://historia-arte.com/_/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvcGFudG9jcmF0b3ItdGF1bGwuanBnIiwicmVzaXplLDE1MDB8Zm9ybWF0LHdlYnAiXX0.vQP73yZJOrr1qBRGcvMnXYQkUGvDPWvaenjSdzBTtEw.webp",
+    "workOfArtWiki": "https://historia-arte.com/obras/pantocrator",
+    "sender": "@mbernet",
+    "year": 1123,
+    "description": "El Cristo Pantocrator se ha convertido actualmente en un icono, una imagen simbólica de la Edad Media que apreciamos por el misterio y la belleza que desprende. "
   }
 ]
